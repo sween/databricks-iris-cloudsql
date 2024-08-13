@@ -1,7 +1,6 @@
-
 # Databricks Station - InterSystems Cloud SQL
-A Quick Start to InterSystems Cloud SQL Data in Databricks
---
+![Databricks Station](assets/databricks_station_-_intersystems_cloud_sql.png)
+## A Quick Start to InterSystems Cloud SQL Data in Databricks
 
 Up and Running in Databricks against an InterSystmes Cloud SQL consists of four parts.
 
